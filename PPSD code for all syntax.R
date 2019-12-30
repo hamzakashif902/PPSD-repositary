@@ -1,6 +1,6 @@
 #assigning value and printing value
 a = 1      #using =
-print(a)          #printing a
+print(a)          #printing a/ printinh variable
 b <- a+2   #using <-
 print(b)
 4 -> a     #using ->
